@@ -21,11 +21,9 @@ fun main() {
     } else{
         print("Obesidade - IMC: $imc kg/m²")
     }  
-}    
+   
 ```
-
 ---
-
 ## Exercício 2 - Construtora Prudente S.A 🏗️
 #### A) Cálculo do Terreno 🏠
 ```Kotlin  
@@ -55,7 +53,6 @@ fun main() {
         println("A construtora não fará acordos, apenas a partir de 10m².")  
     }    
 ```
-
 #### C) Preço 💵
 ```Kotlin
    //Cálculo do Preço da Obra
@@ -77,12 +74,10 @@ fun main() {
     val valorArea = (area/10) * 4500 //valor a cada 10m²
     
 ```
-
 #### D) Mão de Obra 🧱
 ```Kotlin
    val maoDeObra = (mestreObra * 3500) + (serventes * 1900) + (engenheiros * 11000) 
 ```
-
 #### E) Relatório 🧾
 ```Kotlin
    //Serviços
