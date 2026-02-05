@@ -21,7 +21,7 @@ fun main() {
     } else{
         print("Obesidade - IMC: $imc kg/m²")
     }  
-   
+}   
 ```
 ---
 ## Exercício 2 - Construtora Prudente S.A 🏗️
